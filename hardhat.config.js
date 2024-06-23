@@ -50,7 +50,7 @@ module.exports = {
       gasPrice: 225000000000,
       chainId: 43113,
       accounts: [
-        'ce76a28aa3f60a7f7bfa82d15ac0904265584aec6641f02fb43a4dbea491209b'
+        'Private Key Here'
       ],
     },
     mainnet: {
